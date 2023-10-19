@@ -7,10 +7,10 @@
 
 <h2>Features</h2>
 <p>
-<li>- Neon-inspired UI for an engaging visual experience.</li>
-<li>- Keeps track of players' scores (X and O) with a real-time scoreboard.</li>
-<li>- Ability to restart the game at any time.</li>
-<li>- Responsive design for seamless gameplay on various devices.</li>
+<li> Neon-inspired UI for an engaging visual experience.</li>
+<li> Keeps track of players' scores (X and O) with a real-time scoreboard.</li>
+<li> Ability to restart the game at any time.</li>
+<li> Responsive design for seamless gameplay on various devices.</li>
 </p>
 
 <h2>Getting Started</h2>
