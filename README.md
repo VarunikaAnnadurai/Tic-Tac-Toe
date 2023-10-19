@@ -1,6 +1,6 @@
+# Tic Tac Toe
 <!DOCTYPE html>
 <html lang="en">
-  <head> Tic Tac Toe </head> 
 <body>
 <h2> Description </h2> 
 <p>Tic Tac Toe is a classic two-player game built using HTML, CSS, and JavaScript. This project provides a simple yet enjoyable gaming experience with a neon-inspired user interface. The game involves two players taking turns to mark spaces on a 3x3 grid, aiming to achieve a winning combination of their symbols, either 'X' or 'O'.</p>
