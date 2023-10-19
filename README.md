@@ -26,23 +26,23 @@
 <h2>How to Play</h2>
 
 <p>
-- The game is played on a 3x3 grid, with two players taking turns.
-- Player 1 ('X') always goes first.
-- Click on an empty box to place your symbol ('X' or 'O') on the grid.
-- The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
-- The game keeps track of each player's score in real-time.
-- Click the "Restart" button to reset the game and scores.
+<li>The game is played on a 3x3 grid, with two players taking turns.</li>
+<li>Player 1 ('X') always goes first.</li>
+<li>Click on an empty box to place your symbol ('X' or 'O') on the grid.</li>
+<li>The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.</li>
+<li>The game keeps track of each player's score in real-time.</li>
+<li>Click the "Restart" button to reset the game and scores.</li>
 </p>
 <h2>Technologies Used</h2>
 <p>
-- HTML
-- CSS
-- JavaScript
-- Google Fonts (Finger Paint)
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Google Fonts (Finger Paint)</li>
 </p>
 <h2>Preview</h2>
-<p align='center'>![Tictactoe](https://github.com/VarunikaAnnadurai/Tic-Tac-Toe/assets/147306753/684c0c75-a23f-4e25-97c3-877e007c8b60)</p>
-<p>Enjoy playing Tic Tac Toe!</p>
+<p align='center'><img src="https://github.com/VarunikaAnnadurai/Tic-Tac-Toe/assets/147306753/684c0c75-a23f-4e25-97c3-877e007c8b60"></p>
+<p align='center'>Enjoy playing Tic Tac Toe!</p>
 
 
 </body>
