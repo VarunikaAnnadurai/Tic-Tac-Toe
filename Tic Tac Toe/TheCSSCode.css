@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --black: #000;
+    --neon-pink: #f5366f;
+    --neon-blue: #23d2e2;
+    --neon-yellow: #f5d742;
+    --neon-green: #23e275;
+    --neon-orange: #ffad3d;
+    --neon-purple: #c721e5;
+    --winning-blocks: #f5d742;
+}
+
+body {
+    color: var(--neon-pink);
+    font-family: 'Finger Paint', cursive;
+    background-color: var(--black);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    padding: 40px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
+
+#gameboard {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--neon-pink);
+    font-size: 120px;
+    border-right: 2px solid var(--neon-pink);
+    border-bottom: 2px solid var(--neon-pink);
+    background-color: var(--neon-blue);
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--neon-pink);
+    color: var(--black);
+    border-color: var(--neon-pink);
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+    transform: translateY(-2px);
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    font-size: 24px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
