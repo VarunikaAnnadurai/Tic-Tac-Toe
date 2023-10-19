@@ -40,6 +40,8 @@
 - JavaScript
 - Google Fonts (Finger Paint)
 </p>
+<h2>Preview</h2>
+<p align='center'>![Tictactoe](https://github.com/VarunikaAnnadurai/Tic-Tac-Toe/assets/147306753/684c0c75-a23f-4e25-97c3-877e007c8b60)</p>
 <p>Enjoy playing Tic Tac Toe!</p>
 
 
